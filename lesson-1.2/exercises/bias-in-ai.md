@@ -6,4 +6,4 @@ Now complete this exercise, you will [work directly with a model trained on real
 
 
 ### Reflections
-[What did you learn from this exercise]
+I tested the model with different examples. I noticed that the model sometimes makes mistakes, especially when the comments include references to religion or race. This shows some bias in the model.
